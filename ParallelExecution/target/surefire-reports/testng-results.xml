@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="43184" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:57:42Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="43184" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:57:42Z">
+      <class name="mavenProject.AbcTest">
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunch" is-config="true" duration-ms="5" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="BrowserLaunchFirefox()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchFirefox" is-config="true" duration-ms="1" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchFirefox -->
+        <test-method status="PASS" signature="BrowserLaunchEdge()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchEdge" is-config="true" duration-ms="0" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEdge -->
+        <test-method status="PASS" signature="GetEdgeUrl()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="GetEdgeUrl" duration-ms="12004" started-at="2020-10-16T02:56:59Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEdgeUrl -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="firefoxafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="firefoxafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxafterMethod -->
+        <test-method status="PASS" signature="edgeafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="edgeafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeafterMethod -->
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunch" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="BrowserLaunchFirefox()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchFirefox" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchFirefox -->
+        <test-method status="PASS" signature="BrowserLaunchEdge()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchEdge" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEdge -->
+        <test-method status="PASS" signature="GetFirefoxUrl()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="GetFirefoxUrl" duration-ms="13952" started-at="2020-10-16T02:57:11Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetFirefoxUrl -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="firefoxafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="firefoxafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxafterMethod -->
+        <test-method status="PASS" signature="edgeafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="edgeafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeafterMethod -->
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunch" is-config="true" duration-ms="2" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="BrowserLaunchEdge()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchEdge" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEdge -->
+        <test-method status="PASS" signature="BrowserLaunchFirefox()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchFirefox" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchFirefox -->
+        <test-method status="PASS" signature="GetUrl()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="GetUrl" duration-ms="17177" started-at="2020-10-16T02:57:25Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUrl -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="firefoxafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="firefoxafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxafterMethod -->
+        <test-method status="PASS" signature="edgeafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="edgeafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeafterMethod -->
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunch" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="BrowserLaunchFirefox()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchFirefox" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchFirefox -->
+        <test-method status="PASS" signature="BrowserLaunchEdge()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchEdge" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEdge -->
+        <test-method status="PASS" signature="methodOne()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="methodOne" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOne -->
+        <test-method status="PASS" signature="firefoxafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="firefoxafterMethod" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxafterMethod -->
+        <test-method status="PASS" signature="edgeafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="edgeafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeafterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunch" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="BrowserLaunchFirefox()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchFirefox" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchFirefox -->
+        <test-method status="PASS" signature="BrowserLaunchEdge()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="BrowserLaunchEdge" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunchEdge -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="methodTwo()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="methodTwo" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwo -->
+        <test-method status="PASS" signature="edgeafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="edgeafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edgeafterMethod -->
+        <test-method status="PASS" signature="firefoxafterMethod()[pri:0, instance:mavenProject.AbcTest@1e67b872]" name="firefoxafterMethod" is-config="true" duration-ms="0" started-at="2020-10-16T02:57:42Z" finished-at="2020-10-16T02:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxafterMethod -->
+      </class> <!-- mavenProject.AbcTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
